@@ -20,13 +20,13 @@ I have solved the following questions using pyspark.
 ## Elastic search 
 
 '''
-1.I have downloaded Elastic search and logstash and i have installed elastic search 
-  To check if elastic search is runnig or not check it in localhost:9200.
-2.open the logstash config file and created the logstashexm.conf file and declear the configuration.
-  We are using logstash file to ingest the data to elastic search
-  We can also ingest data using elasticsearch loader.
-3.Run the logstash config file after running itb successfully check it in localhost with index name.
-4.After ingesting the data i have solved the solutions for the above questions
+1. I have downloaded Elastic search and logstash and i have installed elastic search.
+   To check if elastic search is runnig or not check it in localhost:9200.
+2. open the logstash config file and created the logstashexm.conf file and declear the configuration.
+   We are using logstash file to ingest the data to elastic search.
+   We can also ingest data using elasticsearch loader.
+3. Run the logstash config file after running itb successfully check it in localhost with index name.
+4. After ingesting the data i have solved the solutions for the above questions.
 '''
 ### Resuorce
 > https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html
